@@ -1,5 +1,6 @@
 adding a new first line.
 here is a line.
 adding another line.
+A LINE IN ALL CAPS.
 Adding a line at the end.
 adding hotfix line to end.
